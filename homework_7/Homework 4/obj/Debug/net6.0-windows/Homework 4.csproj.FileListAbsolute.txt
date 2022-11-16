@@ -1,0 +1,119 @@
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\bin\Debug\net6.0-windows\Homework 2_RANDOMTIMER.exe
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\bin\Debug\net6.0-windows\Homework 2_RANDOMTIMER.deps.json
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\bin\Debug\net6.0-windows\Homework 2_RANDOMTIMER.runtimeconfig.json
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\bin\Debug\net6.0-windows\Homework 2_RANDOMTIMER.dll
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\bin\Debug\net6.0-windows\Homework 2_RANDOMTIMER.pdb
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.csproj.AssemblyReference.cache
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework_2_RANDOMTIMER.Form1.resources
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.dll
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\refint\Homework 2_RANDOMTIMER.dll
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.pdb
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.genruntimeconfig.cache
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\ref\Homework 2_RANDOMTIMER.dll
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\bin\Debug\net6.0-windows\Homework 2_RANDOMTIMER.exe
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\bin\Debug\net6.0-windows\Homework 2_RANDOMTIMER.deps.json
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\bin\Debug\net6.0-windows\Homework 2_RANDOMTIMER.runtimeconfig.json
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\bin\Debug\net6.0-windows\Homework 2_RANDOMTIMER.dll
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\bin\Debug\net6.0-windows\Homework 2_RANDOMTIMER.pdb
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.csproj.AssemblyReference.cache
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework_2_RANDOMTIMER.Form1.resources
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.dll
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\refint\Homework 2_RANDOMTIMER.dll
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.pdb
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.genruntimeconfig.cache
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\ref\Homework 2_RANDOMTIMER.dll
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.exe
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.deps.json
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.runtimeconfig.json
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.dll
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.pdb
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.AssemblyReference.cache
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework_4.Form1.resources
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.dll
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 4\Homework 4\obj\Debug\net6.0-windows\refint\Homework 4.dll
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.pdb
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.genruntimeconfig.cache
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\2\Homework 4\Homework 4\obj\Debug\net6.0-windows\ref\Homework 4.dll
+\\Mac\Home\Desktop\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.exe
+\\Mac\Home\Desktop\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.deps.json
+\\Mac\Home\Desktop\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.runtimeconfig.json
+\\Mac\Home\Desktop\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.dll
+\\Mac\Home\Desktop\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.pdb
+\\Mac\Home\Desktop\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework_4.Form1.resources
+\\Mac\Home\Desktop\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.AssemblyInfo.cs
+\\Mac\Home\Desktop\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.dll
+\\Mac\Home\Desktop\Homework 4\Homework 4\obj\Debug\net6.0-windows\refint\Homework 4.dll
+\\Mac\Home\Desktop\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.pdb
+\\Mac\Home\Desktop\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.genruntimeconfig.cache
+\\Mac\Home\Desktop\Homework 4\Homework 4\obj\Debug\net6.0-windows\ref\Homework 4.dll
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework4\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework4\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework_4.Form1.resources
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework4\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.GenerateResource.cache
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework4\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework4\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework4\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.AssemblyInfo.cs
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework4\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework4\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.dll
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework4\Homework 4\Homework 4\obj\Debug\net6.0-windows\refint\Homework 4.dll
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework4\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.pdb
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework4\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.exe
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework4\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.deps.json
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework4\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.runtimeconfig.json
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework4\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.dll
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework4\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.pdb
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework4\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.genruntimeconfig.cache
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework4\Homework 4\Homework 4\obj\Debug\net6.0-windows\ref\Homework 4.dll
+\\Mac\Home\Desktop\Homework7\Homework 4\bin\Debug\net6.0-windows\Homework 4.exe
+\\Mac\Home\Desktop\Homework7\Homework 4\bin\Debug\net6.0-windows\Homework 4.deps.json
+\\Mac\Home\Desktop\Homework7\Homework 4\bin\Debug\net6.0-windows\Homework 4.runtimeconfig.json
+\\Mac\Home\Desktop\Homework7\Homework 4\bin\Debug\net6.0-windows\Homework 4.dll
+\\Mac\Home\Desktop\Homework7\Homework 4\bin\Debug\net6.0-windows\Homework 4.pdb
+\\Mac\Home\Desktop\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework_4.Form1.resources
+\\Mac\Home\Desktop\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework 4.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework 4.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework 4.AssemblyInfo.cs
+\\Mac\Home\Desktop\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework 4.dll
+\\Mac\Home\Desktop\Homework7\Homework 4\obj\Debug\net6.0-windows\refint\Homework 4.dll
+\\Mac\Home\Desktop\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework 4.pdb
+\\Mac\Home\Desktop\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework 4.genruntimeconfig.cache
+\\Mac\Home\Desktop\Homework7\Homework 4\obj\Debug\net6.0-windows\ref\Homework 4.dll
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework7\Homework 4\bin\Debug\net6.0-windows\Homework 4.exe
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework7\Homework 4\bin\Debug\net6.0-windows\Homework 4.deps.json
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework7\Homework 4\bin\Debug\net6.0-windows\Homework 4.runtimeconfig.json
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework7\Homework 4\bin\Debug\net6.0-windows\Homework 4.dll
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework7\Homework 4\bin\Debug\net6.0-windows\Homework 4.pdb
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework_4.Form1.resources
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.GenerateResource.cache
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework 4.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework 4.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework 4.AssemblyInfo.cs
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework 4.dll
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework7\Homework 4\obj\Debug\net6.0-windows\refint\Homework 4.dll
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework 4.pdb
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework7\Homework 4\obj\Debug\net6.0-windows\Homework 4.genruntimeconfig.cache
+\\Mac\Home\Documents\UNIVERSITA\magistrale\aa_22-23\1_Semestre\Statistics\Homeworks\Homework7\Homework 4\obj\Debug\net6.0-windows\ref\Homework 4.dll
